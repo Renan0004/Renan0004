@@ -1,7 +1,7 @@
 # Renan Dirceu De Almeida
 
 <div align="center">
-  <img src="https://github.com/Renan-gc.png" width="200" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="Imagens\eu.jpeg" width="200" style="border-radius: 50%;" alt="Profile Picture"/>
 </div>
 
 ## 👨‍💻 Desenvolvedor Back-End | Full Stack
