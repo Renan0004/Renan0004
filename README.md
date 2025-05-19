@@ -14,7 +14,7 @@
 </div>
 
 ### Sobre mim
-Desenvolvedor com experiência em soluções tecnológicas eficientes, especializado em desenvolvimento web e sistemas. Apaixonado por resolver problemas complexos e criar soluções inovadoras.
+Desenvolvedor com 2 ano de experiência em soluções tecnológicas eficientes, especializado em Delphi e Firebird. Na Artean Tecnologia, atuo no desenvolvimento de sistemas web seguros, integrando lógica de negócios robusta com bancos de dados otimizados para alta performance
 
 ### 🚀 Principais Habilidades
 
