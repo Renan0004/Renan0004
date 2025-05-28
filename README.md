@@ -129,7 +129,7 @@ Desenvolvedor apaixonado por tecnologia, especializado na criação de sistemas 
 
 ### 🔧 SENAI
 **Tecnólogo em Desenvolvimento de Sistemas**
-- 📅 Julho/2023 - Dezembro/2024
+- 📅 Julho/2022 - Dezembro/2023
 - 📍 Curitiba, PR
 - 🎯 Foco em Programação e Arquitetura de Software
 
