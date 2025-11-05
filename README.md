@@ -5,7 +5,7 @@
 </div>
 
 ## 💫 Sobre mim
-Desenvolvedor Full Stack com experiência em projetos públicos e privados, atuando no desenvolvimento de soluções web escaláveis, performáticas e seguras. Forte atuação em automação de processos, integrações de sistemas e desenvolvimento de interfaces modernas, utilizando tecnologias como React, Next.js, TypeScript, Node.js, .NET, PostgreSQL, AWS, Docker e n8n.
+Desenvolvedor Full Stack e Mobile com experiência em projetos públicos e privados. Atua no desenvolvimento de soluções web escaláveis e sistemas WMS (Warehouse Management System) com Flutter/Dart. Possui forte atuação em automação de processos e integração de sistemas via WebServices/APIs. Experiência em arquiteturas Server-Driven UI (SDUI) e em tecnologias como React, Next.js, Node.js, .NET, TypeScript, Flutter, n8n, PostgreSQL e AWS.
 
 🧠 Tenho paixão por:
 - Resolver problemas reais com tecnologia
@@ -14,8 +14,17 @@ Desenvolvedor Full Stack com experiência em projetos públicos e privados, atua
 
 ## 💼 Experiência Profissional
 
+### Desenvolvedor Flutter/Dart | E-ship
+**Período:** Outubro 2025 - Até o momento
+
+Desenvolvimento Flutter/Dart de sistemas WMS (Warehouse Management System). Implementação de arquitetura Server-Driven UI (SDUI) para renderização dinâmica de telas. Integração de aplicativos e sistemas via WebServices (APIs) para consumo de regras de negócio. Versionamento de código (GitLab) e testes de API (Insomnia).
+
+**Tecnologias:** Flutter, Dart, SDUI, WebServices, APIs, GitLab, Insomnia
+
+---
+
 ### Desenvolvedor Back End | NWDrones
-**Período:** Agosto 2024 - Até o momento
+**Período:** Agosto 2025 - Outubro 2025
 
 Foco em automação e integração de sistemas, com experiência prática em JavaScript, n8n (desenvolvimento de workflows complexos), PostgreSQL, Supabase e Jupyter Notebook. Atuação em otimização de processos internos, desenho de arquiteturas automatizadas e implementação de soluções escaláveis para suportar as demandas do negócio.
 
@@ -60,6 +69,10 @@ Atuação com suporte técnico e automação de processos críticos usando Termi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -79,6 +92,7 @@ Atuação com suporte técnico e automação de processos críticos usando Termi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ## 📊 Estatísticas GitHub
 
